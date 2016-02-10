@@ -2,6 +2,8 @@
 
 A DIY Cloud, run all the container you need on a "single server"
 
+![DIY Cloud](https://cloud.githubusercontent.com/assets/8074/12952134/b6ac3f2c-d015-11e5-8e45-4ccb7e60ddea.png)
+
 ## Prerequisites
 
 - Your domain(s) (ex. demo.corso-javascript.it) should point via DNS or `/etc/hosts` to your "single server"
